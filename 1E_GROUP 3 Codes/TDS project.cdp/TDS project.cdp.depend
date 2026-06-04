@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1737463617 source:c:\users\wongc\documents\mmu\y2s1\tds6213-data structures and algorithms\project\tds project.cdp\main.cpp
+	<iostream>
+	<exception>
+	<stdexcept>
+	<windows.h>
+	<unistd.h>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	"header.hpp"
+
+1737463481 c:\users\wongc\documents\mmu\y2s1\tds6213-data structures and algorithms\project\tds project.cdp\header.hpp
+	<iostream>
+	<exception>
+	<stdexcept>
+	<windows.h>
+	<unistd.h>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+
